@@ -6,7 +6,7 @@ Project made mostly in Jupyter Notebook focusing on using linear regression mode
 |-------------|----------|-----------------------
 | no          | number   | - 
 | adress      | -        | street name
-| city        | -        | either 'Poznań', 'Warszawa' or 'Poznań'
+| city        | -        | either 'Kraków', 'Warszawa' or 'Poznań'
 | floor       | -        | floor on which the house (flat) is located
 | id          | -        | -
 | latitude    | -        | -
