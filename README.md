@@ -26,9 +26,11 @@ Project made mostly in Jupyter Notebook focusing on using linear regression mode
 ## Methods used
 * cleaning data
 * data visualization
-* linear regression
 * correlation
+* linear regression
 
+## How it works
+At the end of a Jupyter Notebook file is programme which after user's input prints estimated house price. On the right there is user's input (5 inputs).
 ![image](https://user-images.githubusercontent.com/101597257/165583144-0128cf1e-42e1-498a-baaf-69f4bf9ba703.png)
 
  
