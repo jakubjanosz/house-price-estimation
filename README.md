@@ -15,4 +15,20 @@ Project made mostly in Jupyter Notebook focusing on using linear regression mode
 | rooms       | -        | number of rooms in house (flat)
 | sq          | area     | in square meters
 | year        | -        | year of construction
+
+## Libraries used
+* pandas
+* numpy
+* matplotlib
+* seaborn
+* sklearn
+
+## Methods used
+* cleaning data
+* data visualization
+* linear regression
+* correlation
+
+![image](https://user-images.githubusercontent.com/101597257/165583144-0128cf1e-42e1-498a-baaf-69f4bf9ba703.png)
+
  
