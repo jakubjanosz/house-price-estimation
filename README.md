@@ -3,15 +3,27 @@ Project made mostly in Jupyter Notebook focusing on using linear regression mode
 
 ## Data description
 | column name | full name| description 
+-------------------------------------------------
 | no          | number   | - 
+-------------------------------------------------
 | adress      | -        | street name
+-------------------------------------------------
 | city        | -        | either 'Poznań', 'Warszawa' or 'Poznań'
+-------------------------------------------------
 | floor       | -        | floor on which the house (flat) is located
+-------------------------------------------------
 | id          | -        | -
+-------------------------------------------------
 | latitude    | -        | -
+-------------------------------------------------
 | longitude   | -        | -
+-------------------------------------------------
 | price       | -        | in PLN
+-------------------------------------------------
 | rooms       | -        | number of rooms in house (flat)
+-------------------------------------------------
 | sq          | area     | in square meters
+-------------------------------------------------
 | year        | -        | year of construction
+-------------------------------------------------
  
