@@ -31,10 +31,11 @@ Project made mostly in Jupyter Notebook focusing on using linear regression mode
 
 ## How it works
 At the end of a Jupyter Notebook file is programme which after user's input prints estimated house price (user's input on the right).
-![image](https://user-images.githubusercontent.com/101597257/165583144-0128cf1e-42e1-498a-baaf-69f4bf9ba703.png)
+![image](https://user-images.githubusercontent.com/101597257/165771499-131391c9-aaf1-4d0d-97dc-ad3ef7501b65.png)
 
-If city picked is 'Poznan' programme will not take the data about number of rooms as it was proven using least square method that this variable is insignifcant and can distort the result
-![image](https://user-images.githubusercontent.com/101597257/165763938-2f6796d7-e99f-4029-9800-c4fe9819e312.png)
+![image](https://user-images.githubusercontent.com/101597257/165771617-db34602e-42b6-4e43-9d76-237146efbf2b.png)
+
+
 
 
  
