@@ -30,7 +30,7 @@ Project made mostly in Jupyter Notebook focusing on using linear regression mode
 * least square method
 
 ## How it works
-At the end of a Jupyter Notebook file there is a programme which after user's input prints estimated house price (user's input on the right).
+At the end of a Jupyter Notebook file there is a program which after the user's input prints estimated house price (user's input on the right).
 ![image](https://user-images.githubusercontent.com/101597257/165771499-131391c9-aaf1-4d0d-97dc-ad3ef7501b65.png)
 
 ![image](https://user-images.githubusercontent.com/101597257/165771617-db34602e-42b6-4e43-9d76-237146efbf2b.png)
